@@ -50,24 +50,24 @@ main{
 }
 
 
-footer img{
+.midias img{
     width: 70px;
     height:70px;
 
 }
 
-footer{
+.midias{
 text-align: center;
 }
 
-footer a{
+.midias a{
     margin: 60px;
    
 
 
 }
 
-footer p{
+.midias p{
     margin-top: 2px;
 }
 
